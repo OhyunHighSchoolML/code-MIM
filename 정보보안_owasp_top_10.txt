@@ -1,20 +1,20 @@
 *    owasp top 10
      -> 1. Injection 
 
-        2. Broken Authentication (Ãë¾àÇÑ ÀÎÁõ)
+        2. Broken Authentication (ì·¨ì•½í•œ ì¸ì¦)
 
-        3. Sensitive Data Exposure (¹Î°¨ÇÑ µ¥ÀÌÅÍ ³ëÃâ)
+        3. Sensitive Data Exposure (ë¯¼ê°í•œ ë°ì´í„° ë…¸ì¶œ)
 
         4. XML External Entities (XXE)
 
-        5. Broken Access Control (Ãë¾àÇÑ Á¢±Ù ÅëÁ¦)
+        5. Broken Access Control (ì·¨ì•½í•œ ì ‘ê·¼ í†µì œ)
 
-        6.  Security Misconfiguration (Àß¸øµÈ º¸¾È ±¸¼º)
+        6.  Security Misconfiguration (ì˜ëª»ëœ ë³´ì•ˆ êµ¬ì„±)
 
         7. Cross-Site Scripting (XSS)
 
-        8. Insecure Deserialization (¾ÈÀüÇÏÁö ¾ÊÀº ¿ªÁ÷·ÄÈ­
+        8. Insecure Deserialization (ì•ˆì „í•˜ì§€ ì•Šì€ ì—­ì§ë ¬í™”)
 
-        9. Using Components with Known Vulnerabilities (¾Ë·ÁÁø Ãë¾àÁ¡ÀÌ ÀÖ´Â ±¸¼º ¿ä¼Ò »ç¿ë)
+        9. Using Components with Known Vulnerabilities (ì•Œë ¤ì§„ ì·¨ì•½ì ì´ ìˆëŠ” êµ¬ì„± ìš”ì†Œ ì‚¬ìš©)
 
-        10. Insufficient Logging & Monitoring (ºÒÃæºĞÇÑ ·Î±ë ¹× ¸ğ´ÏÅÍ¸µ)
+        10. Insufficient Logging & Monitoring (ë¶ˆì¶©ë¶„í•œ ë¡œê¹… ë° ëª¨ë‹ˆí„°ë§)
