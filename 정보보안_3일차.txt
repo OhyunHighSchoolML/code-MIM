@@ -1,0 +1,15 @@
+*    http://paullab.co.kr/jejuoncoding.html
+
+*    XSS -> "서버"를 공격하는 것이 아닌 "사용자"를 공격하는 것      / 주로 개시판 댓글에 허용되는 HTML이나 JS코드
+
+*    SQL Injection -> SQL 쿼리를 이용하여 시스템 접근 또는 로그     인 우회
+
+*    파일 업로드 -> PHP, JSP, ASP, 이미지, 영상 등을 업로드 하     여 시스템 권한 획득 공격
+
+*    디렉터리 노출(Directory TraversalAttack) -> ../(상위폴더)      ./(현재폴더)
+
+*    쿠키 또는 프록시 변조 -> # 검색하기(과제)
+
+*    DBD(Drive By Download) -> 
+
+*    에러노출과 구글해킹 -> # inurl, filetype 사용해서 구글해킹     (과제)
